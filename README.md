@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hi, I'm Junaid Ahamed</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning Engineer | AI Innovator</h3>
+<h3 align="center">Aspiring Data Scientist | Machine Learning Practitioner | Deep engagement in AI</h3>
 
 ---
 
