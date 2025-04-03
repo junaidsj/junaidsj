@@ -1,6 +1,10 @@
-<h1 align="center">🚀 Hi, I'm Junaid Ahamed</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | AI Alchemist</h3>
+<h1 align="center">
+  <span style="display: inline-block; transform: rotate(-5deg)">🚀</span> Hi, I'm Junaid Ahamed
+</h1>
 
+<h3 align="center" style="font-weight: 600; letter-spacing: 0.5px;">
+  Aspiring Data Scientist | Machine Learning Enthusiast | AI Alchemist
+</h3>
 ---
 
 ## 🧑‍💻 About Me
