@@ -66,7 +66,7 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 
 ---
 
-<h2 align-"center"> Notable Projects</h2>
+<h2 align="center"> Notable Projects</h2>
 
 ### 📌 **[Naruto Battle Simulator](https://github.com/junaidsj/naruto)**
 *A Naruto-themed C++ program featuring character profiles, jutsu showcase, and battle simulation. Fans can simulate fights between Naruto characters!*
@@ -79,7 +79,7 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 
 ---
 
-## 🌍 Connect with Me
+<h2 align="center">🌍 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.kaggle.com/junaid2163" target="_blank">
