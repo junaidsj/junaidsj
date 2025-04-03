@@ -68,14 +68,31 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 
 <h2 align="center"> Notable Projects</h2>
 
-### 📌 **[Naruto Battle Simulator](https://github.com/junaidsj/naruto)**
-*A Naruto-themed C++ program featuring character profiles, jutsu showcase, and battle simulation. Fans can simulate fights between Naruto characters!*
+## 🚀 Featured Projects
 
-### 📌 **[YFINANCE](https://github.com/junaidsj/YFINANCE)**
-*Using YFINANCE library to extract data from AMD, Microsoft, and Apple companies to accomplish the project and quizzes.*
+### ⚔️ [Naruto Battle Simulator](https://github.com/junaidsj/naruto)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Game Dev](https://img.shields.io/badge/-Game_Development-7289DA)  
+*A Naruto-themed C++ program featuring character profiles, jutsu showcase, and battle simulation. Fans can simulate epic fights between their favorite characters!*  
+**Key Features:**  
+- Character profiles with unique attributes  
+- Special jutsu animations  
+- Turn-based battle system  
 
-### 📌 **[Alumni Association Platform](https://github.com/junaidsj/AlumniAssociation)**
-*An academic project developed using the MEAN stack, showcasing full-stack development with dynamic features and a responsive UI.*
+### 📈 [YFINANCE Stock Analyzer](https://github.com/junaidsj/YFINANCE)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458)  
+*Using yfinance library to extract and analyze stock data from AMD, Microsoft, and Apple for financial insights and technical quizzes.*  
+**Tech Stack:**  
+- Yahoo Finance API integration  
+- Data visualization  
+- Technical indicators calculation  
+
+### 👨‍🎓 [Alumni Association Platform](https://github.com/junaidsj/AlumniAssociation)  
+![MEAN Stack](https://img.shields.io/badge/-MEAN_Stack-47A248) ![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52) ![Angular](https://img.shields.io/badge/-Angular-DD0031)  
+*Full-stack academic project featuring alumni networking, event management, and professional connections.*  
+**Features:**  
+- User authentication system  
+- Dynamic content management  
+- Responsive UI/UX design  
 
 ---
 
