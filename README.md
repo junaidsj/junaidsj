@@ -68,7 +68,6 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 
 <h2 align="center"> Notable Projects</h2>
 
-## 🚀 Featured Projects
 
 ### ⚔️ [Naruto Battle Simulator](https://github.com/junaidsj/naruto)  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Game Dev](https://img.shields.io/badge/-Game_Development-7289DA)  
