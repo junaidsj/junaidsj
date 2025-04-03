@@ -5,9 +5,7 @@
 <h3 align="center" style="font-weight: 600; letter-spacing: 0.5px;">
   Aspiring Data Scientist | Machine Learning Enthusiast | AI Alchemist
 </h3>
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-About_Me-58a6ff?style=for-the-badge&logo=person-fill&logoColor=white" alt="About Me" />
-</h2>
+## 🌟 About Me <hr style="width:50%;margin-left:0;border:1px solid #58a6ff">
 
 Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believes in the transformative power of data. My journey into Data Science and AI is fueled by an insatiable curiosity and a commitment to innovation. I specialize in extracting valuable insights from complex datasets, designing predictive models, and building intelligent systems that drive meaningful impact.
 
