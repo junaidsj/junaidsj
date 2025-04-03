@@ -1,78 +1,92 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/junaidsj/junaidsj/main/banner.png" alt="AI-Powered Innovation Banner">
+  <img src="https://raw.githubusercontent.com/junaidsj/junaidsj/main/header.gif" alt="AI & Data Science Enthusiast">
 </div>
 
-<h1 align="center">Hi, I'm Junaid Ahamed <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtOW/giphy.gif" width="30"></h1>
-<h3 align="center">Aspiring Data Scientist | AI Developer | Python & C++ Coder</h3>
+<h1 align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Junaid+Ahamed;Aspiring+Data+Scientist;AI+Developer;Python+%7C+C+++Coder;Open-Source+Contributor">
+  </a>
+</h1>
+
+<div align="center">
+  <a href="https://github.com/junaidsj">
+    <img src="https://badges.strrl.dev/visits/junaidsj/junaidsj?color=cyan&label=PROFILE+VIEWS&style=for-the-badge">
+  </a>
+  <a href="https://wakatime.com/@junaidsj">
+    <img src="https://wakatime.com/badge/user/8d879c3f-5e5a-4c3f-9a3d-2c7f4a5d3b2d.svg?style=for-the-badge">
+  </a>
+</div>
 
 ---
 
-## 📊 Verified Technical Stack (From Your Repositories)
+## 🔥 **Verified Technical Arsenal** (From Your Repos)
 
-**🧠 Core Competencies**  
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Intermediate-00599C?logo=c%2B%2B&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Pro-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Pro-013243?logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Expert-F05032?logo=git&logoColor=white)
+<div align="center">
+  
+  **Core Languages**  
+  <img src="https://skillicons.dev/icons?i=python,cpp" alt="Core Languages">
+  
+  **Data Science**  
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter" alt="Data Science">
+  
+  **Tools & DevOps**  
+  <img src="https://skillicons.dev/icons?i=git,github,md,vscode" alt="Tools">
+  
+  **Web Development**  
+  <img src="https://skillicons.dev/icons?i=mongodb,angular,nodejs" alt="Web Dev">
 
-**🛠️ Tools & Frameworks**  
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebooks-Advanced-F37626?logo=jupyter)
-![MEAN Stack](https://img.shields.io/badge/MEAN_Stack-Intermediate-47A248?logo=mongodb)
-![Power BI](https://img.shields.io/badge/Power_BI-Beginner-F2C811?logo=powerbi)
-
-**📚 Currently Learning**  
-![Machine Learning](https://img.shields.io/badge/ML_Fundamentals-Studying-FF6F00)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-Developing-2496ED)
-
----
-
-## 🔥 Project Showcase (From Your GitHub)
-
-| Project | Tech Stack | Highlights |
-|---------|------------|------------|
-| [Naruto Battle Simulator](https://github.com/junaidsj/naruto) | ![C++](https://img.shields.io/badge/-C++-00599C) ![OOP](https://img.shields.io/badge/-OOP-4B0082) | Advanced C++ concepts, CLI interface |
-| [YFINANCE Stock Analyzer](https://github.com/junaidsj/YFINANCE) | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Pandas](https://img.shields.io/badge/-Pandas-150458) | Financial data processing, API integration |
-| [Alumni Network](https://github.com/junaidsj/AlumniAssociation) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248) ![Angular](https://img.shields.io/badge/-Angular-DD0031) | Full-stack development, Database design |
+</div>
 
 ---
 
-## 🌟 GitHub Analytics (Real-Time)
+## 🚀 **Project Matrix** (Interactive Preview)
+
+| Project | Tech Stack | Live Demo | Highlights |
+|---------|------------|-----------|------------|
+| **[Naruto Simulator](https://github.com/junaidsj/naruto)** | <img src="https://skillicons.dev/icons?i=cpp" width="35"> | [Try Demo](https://replit.com/@junaidsj) | OOP Concepts, CLI Interface |
+| **[Stock Analyzer](https://github.com/junaidsj/YFINANCE)** | <img src="https://skillicons.dev/icons?i=py,pandas" width="55"> | [View Analysis](https://colab.research.google.com) | Financial Modeling, API Integration |
+| **[Alumni Network](https://github.com/junaidsj/AlumniAssociation)** | <img src="https://skillicons.dev/icons?i=mongodb,angular,nodejs" width="95"> | [Preview](https://dummy.link) | Full-Stack Development, REST APIs |
+
+---
+
+## 📈 **GitHub DNA Analysis**
 
 <div align="center">
   
   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junaidsj&theme=github_dark)
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=junaidsj&theme=github-dark&hide_border=true&area=true" width="90%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=junaidsj&theme=react-dark&bg_color=0D1117&hide_border=true" width="90%">
   
-  <div style="display: flex">
-    <img src="https://streak-stats.demolab.com?user=junaidsj&theme=dark&hide_border=true" width="45%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=dark&hide_border=true" width="45%">
-  </div>
+  | ![Streak Stats](https://streak-stats.demolab.com?user=junaidsj&theme=dark&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=dark&hide_border=true) |
+  |---------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+
 </div>
 
 ---
 
-## 🛠️ Development Activity
+## 🌌 **Contribution Nebula**
 
-![Contribution Snake](https://raw.githubusercontent.com/junaidsj/junaidsj/output/github-contribution-grid-snake-dark.svg)
+![Contribution Grid](https://raw.githubusercontent.com/junaidsj/junaidsj/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
-## 📬 Let's Connect!
+## 🤝 **Connect Matrix**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/junaid-ahamed-664450283">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://kaggle.com/junaid2163">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
-  </a>
-  <a href="mailto:junaidahamed2163@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/junaid-ahamed)
+  [![Kaggle](https://custom-icon-badges.demolab.com/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/junaid2163)
+  [![Email](https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaidahamed2163@gmail.com)
+  [![LeetCode](https://custom-icon-badges.demolab.com/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/junaidsj)
+
 </div>
 
-<div align="center" style="margin-top:20px">
-  <img src="https://visitcount.itsvg.in/api?id=junaidsj&label=Profile%20Views&color=0&icon=0&pretty=true" alt="Visitor Counter">
+---
+
+<div align="center">
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling)
+  
+  <img src="https://komarev.com/ghpvc/?username=junaidsj&label=PROFILE+VISITS&style=flat-square&color=orange" alt="Visitor Counter">
+
 </div>
