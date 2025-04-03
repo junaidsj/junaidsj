@@ -96,7 +96,7 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=300&lines=%F0%9F%8C%8D+Connect+With+Me" alt="Connect With Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=white&center=true&vCenter=true&width=300&lines=%F0%9F%8C%8D+Connect+With+Me" alt="Connect With Me" />
 </h2>
 
 <p align="center">
