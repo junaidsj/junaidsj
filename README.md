@@ -95,17 +95,22 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 
 ---
 
-<h2 align="center">🌍 Connect with Me</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=300&lines=%F0%9F%8C%8D+Connect+With+Me" alt="Connect With Me" />
+</h2>
 
 <p align="center">
-  <a href="https://www.kaggle.com/junaid2163" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <a href="https://www.linkedin.com/in/junaid-ahamed-664450283" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1" />
   </a>
-  <a href="https://www.linkedin.com/in/junaid-ahamed-664450283" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.kaggle.com/junaid2163" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=101010" alt="Kaggle" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1" />
   </a>
-  <a href="mailto:junaidahamed2163@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:junaidahamed2163@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1" />
+  </a>
+  <a href="https://github.com/junaidsj" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1" />
   </a>
 </p>
 
