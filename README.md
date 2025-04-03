@@ -53,7 +53,7 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 ### 📌 **[Naruto Battle Simulator](https://github.com/junaidsj/naruto)**
 *A Naruto-themed C++ program featuring character profiles, jutsu showcase, and battle simulation. Fans can simulate fights between Naruto characters!*
 
-### 📌 **[Working Hours Checker](https://github.com/junaidsj/hours)**
+### 📌 **[YFINANCE](https://github.com/junaidsj/YFINANCE)**
 *A C++ program to check working hours using conditional statements.*
 
 ### 📌 **[Alumni Association Platform](https://github.com/junaidsj/AlumniAssociation)**
