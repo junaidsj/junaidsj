@@ -56,33 +56,29 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 </p>
 
 <h2 align="center">📈 GitHub Stats</h2>
+<div align="center" style="margin: 20px 0;">
 
-<div align="center">
-
-  <!-- GitHub Stats Row -->
-  <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-    <!-- Enhanced Profile Stats -->
-    <a href="https://github.com/junaidsj?tab=repositories" style="text-decoration: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=junaidsj&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&include_all_commits=true&count_private=true&custom_title=Junaid%27s%20GitHub%20Stats" width="48%" alt="GitHub Stats" />
+  <!-- Top Row - Stats and Streak (Equal Width) -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <!-- Profile Stats -->
+    <a href="https://github.com/junaidsj?tab=repositories" style="flex: 1; max-width: 400px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=junaidsj&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&include_all_commits=true&count_private=true&custom_title=My+GitHub+Stats" style="width: 100%;" alt="GitHub Stats" />
     </a>
     
-    
-   
+    <!-- Streak Stats -->
+    <a href="https://github.com/junaidsj" style="flex: 1; max-width: 400px;">
+      <img src="https://streak-stats.demolab.com?user=junaidsj&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakNum=ffffff&sideNums=58a6ff&currStreakLabel=ffffff&sideLabels=58a6ff" style="width: 100%;" alt="GitHub Streak" />
+    </a>
   </div>
 
-  <!-- Top Languages with Better Filtering -->
-  <a href="https://github.com/junaidsj?tab=repositories" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css,scss,less,jupyter%20notebook&exclude_repo=github-readme-stats" width="90%" alt="Top Languages" />
-  </a>
+  <!-- Bottom Row - Languages (Full Width) -->
+  <div style="max-width: 810px; margin: 0 auto;">
+    <a href="https://github.com/junaidsj?tab=repositories">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css,scss,less,jupyter%20notebook" style="width: 100%;" alt="Top Languages" />
+    </a>
+  </div>
 
-  <!-- Activity Graph -->
-  <h3 style="color: #58a6ff; margin-top: 30px;">My Coding Activity</h3>
-  <a href="https://github.com/junaidsj">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=junaidsj&theme=github-dark&hide_border=true&bg_color=0d1117&point=58a6ff&line=1f6feb&area=true&area_color=1f6feb" width="90%" alt="Activity Graph" />
-  </a>
 </div>
-
----
 
 <h2 align="center"> Notable Projects</h2>
 
