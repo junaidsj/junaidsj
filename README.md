@@ -58,11 +58,16 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junaidsj&show_icons=true&theme=radical" width="32%" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidsj&theme=radical" width="32%" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/junaidsj?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=junaidsj&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" width="45%" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/junaidsj?tab=repositories">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidsj&theme=radical&hide_border=true&background=00000000" width="45%" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/junaidsj?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=8&hide=html,css" width="90%" alt="Top Languages" />
+  </a>
 </p>
-
 
 ---
 
