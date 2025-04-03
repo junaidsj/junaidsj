@@ -54,7 +54,7 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 *A Naruto-themed C++ program featuring character profiles, jutsu showcase, and battle simulation. Fans can simulate fights between Naruto characters!*
 
 ### 📌 **[YFINANCE](https://github.com/junaidsj/YFINANCE)**
-*A C++ program to check working hours using conditional statements.*
+*Using YFINANCE library to extract data from AMD , Microsoft and Apple company to accomplish the project and quizzes.*
 
 ### 📌 **[Alumni Association Platform](https://github.com/junaidsj/AlumniAssociation)**
 *An academic project developed using the MEAN stack, showcasing full-stack development with dynamic features and a responsive UI.*
