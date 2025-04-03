@@ -57,17 +57,30 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<p align="center">
-  <a href="https://github.com/junaidsj?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=junaidsj&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" width="45%" alt="GitHub Stats" />
+<div align="center">
+
+  <!-- GitHub Stats Row -->
+  <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <!-- Enhanced Profile Stats -->
+    <a href="https://github.com/junaidsj?tab=repositories" style="text-decoration: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=junaidsj&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&include_all_commits=true&count_private=true&custom_title=Junaid%27s%20GitHub%20Stats" width="48%" alt="GitHub Stats" />
+    </a>
+    
+    
+   
+  </div>
+
+  <!-- Top Languages with Better Filtering -->
+  <a href="https://github.com/junaidsj?tab=repositories" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css,scss,less,jupyter%20notebook&exclude_repo=github-readme-stats" width="90%" alt="Top Languages" />
   </a>
-  <a href="https://github.com/junaidsj?tab=repositories">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidsj&theme=radical&hide_border=true&background=00000000" width="45%" alt="GitHub Streak" />
+
+  <!-- Activity Graph -->
+  <h3 style="color: #58a6ff; margin-top: 30px;">My Coding Activity</h3>
+  <a href="https://github.com/junaidsj">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=junaidsj&theme=github-dark&hide_border=true&bg_color=0d1117&point=58a6ff&line=1f6feb&area=true&area_color=1f6feb" width="90%" alt="Activity Graph" />
   </a>
-  <a href="https://github.com/junaidsj?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=8&hide=html,css" width="90%" alt="Top Languages" />
-  </a>
-</p>
+</div>
 
 ---
 
