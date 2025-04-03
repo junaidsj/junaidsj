@@ -56,29 +56,20 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 </p>
 
 <h2 align="center">📈 GitHub Stats</h2>
-<div align="center" style="margin: 20px 0;">
-
-  <!-- Top Row - Stats and Streak (Equal Width) -->
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-    <!-- Profile Stats -->
-    <a href="https://github.com/junaidsj?tab=repositories" style="flex: 1; max-width: 400px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=junaidsj&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&include_all_commits=true&count_private=true&custom_title=My+GitHub+Stats" style="width: 100%;" alt="GitHub Stats" />
-    </a>
-    
-    <!-- Streak Stats -->
-    <a href="https://github.com/junaidsj" style="flex: 1; max-width: 400px;">
-      <img src="https://streak-stats.demolab.com?user=junaidsj&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakNum=ffffff&sideNums=58a6ff&currStreakLabel=ffffff&sideLabels=58a6ff" style="width: 100%;" alt="GitHub Streak" />
-    </a>
-  </div>
-
-  <!-- Bottom Row - Languages (Full Width) -->
-  <div style="max-width: 810px; margin: 0 auto;">
-    <a href="https://github.com/junaidsj?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css,scss,less,jupyter%20notebook" style="width: 100%;" alt="Top Languages" />
-    </a>
-  </div>
-
-</div>
+<p align="center">
+  <!-- Compact Stats Row -->
+  <a href="https://github.com/junaidsj?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=junaidsj&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&include_all_commits=true&count_private=true&custom_title=My+Stats&hide=prs,issues" height="150" />
+  </a>
+  <a href="https://github.com/junaidsj" style="margin: 0 10px;">
+    <img src="https://streak-stats.demolab.com?user=junaidsj&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakNum=ffffff&sideNums=58a6ff&currStreakLabel=ffffff&sideLabels=58a6ff&hide_longest_streak=true" height="150" />
+  </a>
+  
+  <!-- Compact Languages -->
+  <a href="https://github.com/junaidsj?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=5&hide=html,css,scss,less,jupyter%20notebook&size_weight=0.5&count_weight=0.5" height="150" />
+  </a>
+</p>
 
 <h2 align="center"> Notable Projects</h2>
 
