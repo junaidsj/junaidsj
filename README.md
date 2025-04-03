@@ -1,114 +1,78 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-  Junaid Ahamed 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00F72E&center=true&vCenter=true&width=600&lines=🚀+AI+Engineer;🤖+Machine+Learning+Specialist;📊+Data+Alchemist;🧠+Deep+Learning+Evangelist;⚡+Building+Tomorrow's+AI+Today">
-</h3>
-
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=junaidsj&label=PROFILE+VIEWS&color=dc143c&style=flat-square" alt="Profile views"/>
-  <a href="https://github.com/junaidsj?tab=repositories">
-    <img alt="total stars" src="https://custom-icon-badges.demolab.com/github/stars/junaidsj?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/junaidsj/junaidsj/main/banner.png" alt="AI-Powered Innovation Banner">
 </div>
 
+<h1 align="center">Hi, I'm Junaid Ahamed <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtOW/giphy.gif" width="30"></h1>
+<h3 align="center">Aspiring Data Scientist | AI Developer | Python & C++ Coder</h3>
+
 ---
 
-## 🧬 About Me
+## 📊 Verified Technical Stack (From Your Repositories)
 
-<p align="justify">
-  <img src="https://i.imgur.com/6veP7h7.png" width="300" align="right" hspace="20">
+**🧠 Core Competencies**  
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Intermediate-00599C?logo=c%2B%2B&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Pro-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Pro-013243?logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Expert-F05032?logo=git&logoColor=white)
+
+**🛠️ Tools & Frameworks**  
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebooks-Advanced-F37626?logo=jupyter)
+![MEAN Stack](https://img.shields.io/badge/MEAN_Stack-Intermediate-47A248?logo=mongodb)
+![Power BI](https://img.shields.io/badge/Power_BI-Beginner-F2C811?logo=powerbi)
+
+**📚 Currently Learning**  
+![Machine Learning](https://img.shields.io/badge/ML_Fundamentals-Studying-FF6F00)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-Developing-2496ED)
+
+---
+
+## 🔥 Project Showcase (From Your GitHub)
+
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| [Naruto Battle Simulator](https://github.com/junaidsj/naruto) | ![C++](https://img.shields.io/badge/-C++-00599C) ![OOP](https://img.shields.io/badge/-OOP-4B0082) | Advanced C++ concepts, CLI interface |
+| [YFINANCE Stock Analyzer](https://github.com/junaidsj/YFINANCE) | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Pandas](https://img.shields.io/badge/-Pandas-150458) | Financial data processing, API integration |
+| [Alumni Network](https://github.com/junaidsj/AlumniAssociation) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248) ![Angular](https://img.shields.io/badge/-Angular-DD0031) | Full-stack development, Database design |
+
+---
+
+## 🌟 GitHub Analytics (Real-Time)
+
+<div align="center">
   
-  🔭 **AI Architect** crafting intelligent systems with **TensorFlow, PyTorch & Transformers**  
-  🌱 Currently mastering **LLM Ops & Generative AI**  
-  👯 Seeking collaborations on **NLP/Computer Vision** projects  
-  🎯 2024 Goals: Contribute to **Open Source AI Projects**  
-  ⚡ Fun fact: Can recite 100 digits of π while debugging neural networks  
-  📫 How to reach me: [![Gmail](https://img.shields.io/badge/-junaidahamed2163@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:junaidahamed2163@gmail.com)
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### 🤖 AI/ML Core
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=for-the-badge&logo=TensorFlow)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=for-the-badge&logo=PyTorch)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=for-the-badge&logo=Keras)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=for-the-badge&logo=OpenCV)&nbsp;
-
-### 🧮 Data Ecosystem
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=pandas)&nbsp;
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=for-the-badge&logo=NumPy)&nbsp;
-![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=for-the-badge&logo=SciPy)&nbsp;
-![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=for-the-badge&logo=Plotly)&nbsp;
-
-### ⚡ Productionization
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=Docker)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=for-the-badge&logo=FastAPI)&nbsp;
-![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=for-the-badge&logo=Apache-Airflow)&nbsp;
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/junaidsj">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=junaidsj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=junaidsj&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junaidsj&theme=github_dark)
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=junaidsj&theme=github-dark&hide_border=true&area=true" width="90%">
+  
+  <div style="display: flex">
+    <img src="https://streak-stats.demolab.com?user=junaidsj&theme=dark&hide_border=true" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=dark&hide_border=true" width="45%">
+  </div>
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🛠️ Development Activity
 
-### 1. Naruto Battle Simulator ⚔️
-[![GitHub](https://img.shields.io/badge/-SOURCE-171515?style=for-the-badge&logo=github)](https://github.com/junaidsj/naruto)
-> C++ program simulating epic Naruto universe battles with 15+ characters and 50+ jutsu
-
-**Tech Stack**: `C++` `OOP` `CLI` 
-
-### 2. YFINANCE Stock Analyzer 📈
-[![GitHub](https://img.shields.io/badge/-SOURCE-171515?style=for-the-badge&logo=github)](https://github.com/junaidsj/YFINANCE)
-> Financial analysis toolkit using yfinance API for real-time market data processing
-
-**Tech Stack**: `Python` `Pandas` `Matplotlib` `yfinance`
-
-### 3. Alumni Network Platform 🌐
-[![GitHub](https://img.shields.io/badge/-SOURCE-171515?style=for-the-badge&logo=github)](https://github.com/junaidsj/AlumniAssociation)
-> Full-stack alumni management system with job portal and mentorship features
-
-**Tech Stack**: `MongoDB` `Express` `Angular` `Node.js`
+![Contribution Snake](https://raw.githubusercontent.com/junaidsj/junaidsj/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## 🤝 Connect with Me
+## 📬 Let's Connect!
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/junaid-ahamed-664450283">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://kaggle.com/junaid2163">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
   </a>
   <a href="mailto:junaidahamed2163@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p>
+</div>
 
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=junaidsj&label=Profile%20Views&color=0&icon=6&pretty=true" alt="Visitor Count">
-  <br>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>Let's connect and create AI magic!</b></em> 
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<div align="center" style="margin-top:20px">
+  <img src="https://visitcount.itsvg.in/api?id=junaidsj&label=Profile%20Views&color=0&icon=0&pretty=true" alt="Visitor Counter">
 </div>
