@@ -57,18 +57,9 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 
 <h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
-  <!-- Compact Stats Row -->
-  <a href="https://github.com/junaidsj?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=junaidsj&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&include_all_commits=true&count_private=true&custom_title=My+Stats&hide=prs,issues" height="150" />
-  </a>
-  <a href="https://github.com/junaidsj" style="margin: 0 10px;">
-    <img src="https://streak-stats.demolab.com?user=junaidsj&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakNum=ffffff&sideNums=58a6ff&currStreakLabel=ffffff&sideLabels=58a6ff&hide_longest_streak=true" height="150" />
-  </a>
-  
-  <!-- Compact Languages -->
-  <a href="https://github.com/junaidsj?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=5&hide=html,css,scss,less,jupyter%20notebook&size_weight=0.5&count_weight=0.5" height="150" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=junaidsj&show_icons=true&theme=radical" width="32%" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidsj&theme=radical" width="32%" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <h2 align="center"> Notable Projects</h2>
