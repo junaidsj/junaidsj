@@ -1,19 +1,19 @@
 <h1 align="center">🚀 Hi, I'm Junaid Ahamed</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning Practitioner | Deep engagement in AI</h3>
+<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | AI Innovator</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Data Science & Machine Learning Projects**
-- 🌱 I’m exploring **Generative AI & Large Language Models (LLMs)**
-- 💬 Ask me about **Python, Machine Learning, and Data Analytics**
+- 🔭 Currently working on **Data Science & Machine Learning Projects**
+- 🌱 Exploring **Generative AI & Large Language Models (LLMs)**
+- 💬 Ask me about **Python, Machine Learning, Data Analytics & AI**
 - 📫 Reach me at **[junaidahamed2163@gmail.com](mailto:junaidahamed2163@gmail.com)**
 - ⚡ Fun fact: **I love transforming data into actionable insights and AI-driven solutions!**
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Technical Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -42,16 +42,16 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
 
-- **[Naruto Battle Simulator](https://github.com/junaidsj/naruto)**  
-  *A Naruto-themed C++ program featuring character profiles, jutsu showcase, and battle simulation. Fans can simulate fights between Naruto characters!*
+### 📌 **[Naruto Battle Simulator](https://github.com/junaidsj/naruto)**
+*A Naruto-themed C++ program featuring character profiles, jutsu showcase, and battle simulation. Fans can simulate fights between Naruto characters!*
 
-- **[Working Hours Checker](https://github.com/junaidsj/hours)**  
-  *A C++ program to check working hours using conditional statements.*
+### 📌 **[Working Hours Checker](https://github.com/junaidsj/hours)**
+*A C++ program to check working hours using conditional statements.*
 
-- **[Alumni Association Platform](https://github.com/junaidsj/AlumniAssociation)**  
-  *An academic project developed using the MEAN stack, showcasing full-stack development with dynamic features and a responsive UI.*
+### 📌 **[Alumni Association Platform](https://github.com/junaidsj/AlumniAssociation)**
+*An academic project developed using the MEAN stack, showcasing full-stack development with dynamic features and a responsive UI.*
 
 ---
 
@@ -71,4 +71,4 @@
 
 ---
 
-*Let’s connect and collaborate to push the boundaries of AI and Data Science together!*
+✨ *Let’s connect and collaborate to push the boundaries of AI and Data Science together!* 🚀
