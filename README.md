@@ -56,43 +56,11 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 </p>
 
 <h2 align="center">📈 GitHub Stats</h2>
-<!-- GitHub Stats and Activity Overview -->
 <p align="center">
-  <a href="https://github.com/junaidsj">
-    <img src="https://github-readme-stats.vercel.app/api?username=junaidsj&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  </a>
-  <a href="https://github.com/junaidsj">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidsj&theme=radical&hide_border=true" width="48%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=junaidsj&show_icons=true&theme=radical" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidsj&theme=radical" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=radical" width="32%" />
 </p>
-
-<!-- Most Used Languages -->
-<p align="center">
-  <a href="https://github.com/junaidsj">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
-  </a>
-</p>
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <a href="https://github.com/junaidsj">
-    <img src="https://github-profile-trophy.vercel.app/?username=junaidsj&theme=radical&margin-w=10&margin-h=10&no-bg=true&no-frame=true" width="90%" />
-  </a>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/junaidsj">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=junaidsj&theme=radical&hide_border=true" width="90%" />
-  </a>
-</p>
-
-<!-- Profile Views and Followers Count -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=junaidsj&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/junaidsj?label=Followers&style=for-the-badge&color=blueviolet" alt="GitHub Followers" />
-</p>
-
 
 ### ⚔️ [Naruto Battle Simulator](https://github.com/junaidsj/naruto)  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Game Dev](https://img.shields.io/badge/-Game_Development-7289DA)  
