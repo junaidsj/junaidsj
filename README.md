@@ -41,9 +41,12 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junaidsj&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidsj&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junaidsj&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidsj&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
@@ -54,7 +57,7 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 *A Naruto-themed C++ program featuring character profiles, jutsu showcase, and battle simulation. Fans can simulate fights between Naruto characters!*
 
 ### 📌 **[YFINANCE](https://github.com/junaidsj/YFINANCE)**
-*Using YFINANCE library to extract data from AMD , Microsoft and Apple company to accomplish the project and quizzes.*
+*Using YFINANCE library to extract data from AMD, Microsoft, and Apple companies to accomplish the project and quizzes.*
 
 ### 📌 **[Alumni Association Platform](https://github.com/junaidsj/AlumniAssociation)**
 *An academic project developed using the MEAN stack, showcasing full-stack development with dynamic features and a responsive UI.*
