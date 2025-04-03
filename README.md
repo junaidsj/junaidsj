@@ -21,7 +21,7 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 
 ---
 
-## 🚀 Technical Skills
+<h2 align="center">🚀 Technical Skills</h2>
 
 <p align="center">
   <!-- Core Technologies from your profile -->
@@ -55,7 +55,7 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=junaidsj&show_icons=true&theme=radical" width="32%" />
@@ -66,7 +66,7 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 
 ---
 
-## 🔥 Notable Projects
+<h2 align-"center"> Notable Projects</h2>
 
 ### 📌 **[Naruto Battle Simulator](https://github.com/junaidsj/naruto)**
 *A Naruto-themed C++ program featuring character profiles, jutsu showcase, and battle simulation. Fans can simulate fights between Naruto characters!*
