@@ -58,7 +58,7 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 <h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=junaidsj&show_icons=true&theme=radical" width="32%" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidsj&theme=radical" width="32%" />
+   <img src="https://streak-stats.demolab.com/?user=junaidsj&theme=radical" width="32%" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
