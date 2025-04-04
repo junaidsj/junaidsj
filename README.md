@@ -59,8 +59,9 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=junaidsj&show_icons=true&theme=radical" width="32%" />
    <img src="https://streak-stats.demolab.com/?user=junaidsj&theme=radical" width="32%" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=radical" alt="Top Languages" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidsj&layout=compact&theme=radical" width="32%" />
 </p>
+
 
 ### ⚔️ [Naruto Battle Simulator](https://github.com/junaidsj/naruto)  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Game Dev](https://img.shields.io/badge/-Game_Development-7289DA)  
