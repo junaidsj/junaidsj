@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="display: inline-block; transform: rotate(-5deg)">🚀</span> Hi, I'm Junaid Ahamed
+  <span style="display: inline-block; transform: rotate(-5deg)">🚀</span> Hi there, I'm Junaid Ahamed
 </h1>
 
 <h3 align="center" style="font-weight: 600; letter-spacing: 0.5px;">
@@ -110,5 +110,5 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 
 ---
 
-✨ *Let’s connect and collaborate to push the boundaries of AI and Data Science together!* 🚀
+✨ Let’s connect, collaborate, and innovate at the forefront of AI and Data Science! 🚀 Together, we can drive meaningful impact and shape the future.
  
