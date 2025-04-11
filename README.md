@@ -84,7 +84,6 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 *Full-stack academic project featuring alumni networking, event management, and professional connections.*  
 **Features:**  
 - User authentication system  
-- Dynamic content management  
 - Responsive UI/UX design  
 
 ---
