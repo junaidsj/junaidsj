@@ -109,5 +109,6 @@ Welcome to my GitHub! I am Junaid Ahamed, an AI-driven problem solver who believ
 
 ---
 
-✨ Let’s connect, collaborate, and innovate at the forefront of AI and Data Science! 🚀 Together, we can drive meaningful impact and shape the future.
+✨ Let’s connect, collaborate, and innovate at the forefront of AI and Data Science! 
+🚀 Together, we can drive meaningful impact and shape the future.
  
